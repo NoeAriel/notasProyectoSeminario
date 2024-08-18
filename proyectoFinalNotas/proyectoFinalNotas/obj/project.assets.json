@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jojo\\.nuget\\packages\\": {}
+    "C:\\Users\\jorgecifuentes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jojo\\Documents\\GitHub\\notasProyectoSeminario\\proyectoFinalNotas\\proyectoFinalNotas\\proyectoFinalNotas.csproj",
+      "projectUniqueName": "C:\\Users\\jorgecifuentes\\Documents\\GitHub\\notasProyectoSeminario\\proyectoFinalNotas\\proyectoFinalNotas\\proyectoFinalNotas.csproj",
       "projectName": "proyectoFinalNotas",
-      "projectPath": "C:\\Users\\Jojo\\Documents\\GitHub\\notasProyectoSeminario\\proyectoFinalNotas\\proyectoFinalNotas\\proyectoFinalNotas.csproj",
-      "packagesPath": "C:\\Users\\Jojo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jojo\\Documents\\GitHub\\notasProyectoSeminario\\proyectoFinalNotas\\proyectoFinalNotas\\obj\\",
+      "projectPath": "C:\\Users\\jorgecifuentes\\Documents\\GitHub\\notasProyectoSeminario\\proyectoFinalNotas\\proyectoFinalNotas\\proyectoFinalNotas.csproj",
+      "packagesPath": "C:\\Users\\jorgecifuentes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorgecifuentes\\Documents\\GitHub\\notasProyectoSeminario\\proyectoFinalNotas\\proyectoFinalNotas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jojo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jorgecifuentes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
